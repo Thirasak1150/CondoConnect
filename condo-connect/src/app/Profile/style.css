@@ -1,0 +1,14 @@
+.bgProfile {
+    background-image: url(../../../public/images/bgDestop.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bgName {
+    background-image: url(../../../public/images/bgProfile.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+ 
+}
